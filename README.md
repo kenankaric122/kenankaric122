@@ -21,7 +21,7 @@
       <a href="https://www.facebook.com/kenan.karic.562/" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="" height="30"/></a>
-      <a href="" target="blank"><img align="center"
+      <a href="karickenan97@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="" height="30"/></a>
     </p>
