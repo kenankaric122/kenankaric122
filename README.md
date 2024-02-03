@@ -12,7 +12,6 @@
   <summary>Contact me</summary>
 <div>
   <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/kenan-kari%C4%87-1442a4233/" target="blank"><img align="center"
